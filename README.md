@@ -12,13 +12,13 @@ I am a PhD-student at the Friedrich-Schiller-University of Jena hosted at the de
 
 ### Working experiences
 
-[2013–present: Lecturer (PNS Dosen)](https://www.itb.ac.id/staff/view/miga-magenika-julian-swe)
+* [2013–present: Lecturer (PNS Dosen)](https://www.itb.ac.id/staff/view/miga-magenika-julian-swe)
 Geodesy and Geomatics Study Programme, Faculty of Earth Sciences and Technology, ITB, Indonesia
 
-2008–2011: Teaching assistant
+* 2008–2011: Teaching assistant
 Geodesy and Geomatics Study Programme, Faculty of Earth Sciences and Technology, ITB, Indonesia
 
-2010–2011: Geomatician
+* 2010–2011: Geomatician
 PT. Bhumi Warih Geohydromatics, Indonesia
 
 ### Markdown
