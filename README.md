@@ -2,9 +2,6 @@
 
 I am a PhD-student at the Friedrich-Schiller-University of Jena hosted at the department of Geoinformatics, Institute of Geography funded by the Indonesia-German Scholarship Program (IGSP) DAAD-DIKTI. I am doing my PhD research about the modelling of the hydrological processes in several basins in the western part of Java Island, Indonesia. I am working for the implementation of the J2000 hydrological model in Asian monsoon environments. This research also relates to the severe problem of frequent flooding in Jakarta and surrounding areas due to the coupling effects of changing land use and climate.
 
-[editor on GitHub](https://http://www.geographie.uni-jena.de/Julian.html) to maintain and preview the content for your website in Markdown files.
-
-
 ### Formal educations
 
 [PhD-student at Friedrich-Schiller-University of Jena (FSU-Jena), Germany, Institute of Geography] (https://http://www.geographie.uni-jena.de/Julian.html). Funded by the DAAD-IGSP.
