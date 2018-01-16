@@ -12,7 +12,7 @@ Bachelor degree in Geodesy and Geomatics ITB, Indonesia, Geodesy and Geomatics E
 
 ### Working experiences
 
-[2013–present: Lecturer (Pegawai Negeri Sipil Dosen)](https://www.itb.ac.id/staff/view/miga-magenika-julian-swe)
+[2013–present: Lecturer (PNS Dosen)](https://www.itb.ac.id/staff/view/miga-magenika-julian-swe)
 Geodesy and Geomatics Study Programme, Faculty of Earth Sciences and Technology, ITB, Indonesia
 
 2008–2011: Teaching assistant
