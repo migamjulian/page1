@@ -4,7 +4,7 @@ I am a PhD-student at the Friedrich-Schiller-University of Jena hosted at the de
 
 ### Formal educations
 
-[PhD-student at Friedrich-Schiller-University of Jena (FSU-Jena), Germany, Institute of Geography] (https://http://www.geographie.uni-jena.de/Julian.html). Funded by the DAAD-IGSP.
+[PhD-student at Friedrich-Schiller-University of Jena (FSU-Jena), Germany, Institute of Geography] (https://www.geographie.uni-jena.de/Julian.html). Funded by the DAAD-IGSP.
 
 Master degree (M.T.) in Geodesy and Geomatics Institute of Technology Bandung (ITB), Indonesia, Geodesy and Geomatics Engineering, Faculty of Earth Sciences anTechnology. Joint degree programme between Faculty of Earth Sciences and Technology, ITB, Indonesia and Center for Environmental Remote Sensing (CEReS), Chiba University, Japan. Funded by Excellence Scholarship, DIKTI, Indonesia
 
