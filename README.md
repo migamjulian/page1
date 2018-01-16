@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Miga Magenika Julian
+
+
+<p style="text-align: justify;" align="justify">I am a registered PhD-student at the Friedrich-Schiller-University of Jena hosted at the department of Geoinformatics, Institute of Geography funded by the Indonesia-German Scholarship Program (IGSP) DAAD-DIKTI. I am doing my PhD research about the modelling of the hydrological processes in several basins in the western part of Java Island, Indonesia. I am working for the implementation of the J2000 hydrological model in Asian monsoon environments. This research also relates to the severe problem of frequent flooding in Jakarta and surrounding areas due to the coupling effects of changing land use and climate.</p>
+
+
 
 You can use the [editor on GitHub](https://github.com/migamjulian/page1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
